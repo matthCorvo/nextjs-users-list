@@ -9,7 +9,7 @@ import Head from 'next/head'
             <meta name="keywords" content="liste"/>
         </Head>
         <div>
-            <h1>Localiser vos Organismes de Formation Web</h1>
+            <h1>Localiser vos users</h1>
         </div>
         </>
 
